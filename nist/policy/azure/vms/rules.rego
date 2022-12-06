@@ -9,3 +9,5 @@ package policy.azure.vms
 #    e.g. azure.X.Y, but do not put enforce/monitor rules into those packages
 #    since they will not be evaluated unless you use them as helpers.
 #dadffdf
+
+#added from
