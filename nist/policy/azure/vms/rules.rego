@@ -8,6 +8,4 @@ package policy.azure.vms
 # You may put helpers into packages at deeper levels of the hiearchy,
 #    e.g. azure.X.Y, but do not put enforce/monitor rules into those packages
 #    since they will not be evaluated unless you use them as helpers.
-#dadffdf
-
-#added from
+#xsssssss
